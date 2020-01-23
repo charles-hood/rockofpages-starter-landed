@@ -7,7 +7,7 @@ const Banner = props => (
     <div className="content">
       <header>
         <h2>Rock of Pages</h2>
-        <h2>We create Pages that Rock!</h2>
+        <P>We create Pages that Rock!</p>
 	<p>
 	  (For artists of every genre.)
         </p>
