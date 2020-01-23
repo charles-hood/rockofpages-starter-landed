@@ -56,7 +56,7 @@ module.exports = {
       {
         name: 'Sign Up',
         link: '#',
-        cl: 'button primary',
+        cl: 'button',
       },
     ],
   },
