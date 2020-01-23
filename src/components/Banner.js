@@ -6,10 +6,9 @@ const Banner = props => (
   <section id="banner">
     <div className="content">
       <header>
-        <h2>Rock of Pages</h2>
-        <p>
-          We create Pages that Rock!
-	<br />
+        <h1>Rock of Pages</h1>
+        <h2>We create Pages that Rock!</h2>
+	<p />
 	  (For artists of every genre.)
         </p>
       </header>
