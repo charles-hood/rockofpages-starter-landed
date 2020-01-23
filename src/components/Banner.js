@@ -8,6 +8,7 @@ const Banner = props => (
       <header>
         <h2>Rock of Pages</h2>
         <p>We create Pages that Rock!
+	<br />
 	</p>
 	  (For artists of every genre.)
       </header>
